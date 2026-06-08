@@ -1,0 +1,13 @@
+langchain
+openai
+langchain-openai
+pydantic
+python-dotenv
+pytest
+pytesseract
+streamlit
+langchain-core
+langchain-community
+langchain-classic
+langchain-chroma
+langfuse==3.15.0
